@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------
+>>> NOTICES
+----------------------------------------------------------------
+*/
+
+.mb_hms-notice {
+	background-color: $background__color__notice;
+	color: $color__text__notice;
+	margin: 0 0 $space__l;
+	padding: $space;
+}
+
+.mb_hms-notice--error {
+	@include clear-list();
+}

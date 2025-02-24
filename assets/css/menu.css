@@ -1,0 +1,20 @@
+/**
+ * Adds mb_hms icons to WP dashboard menu.
+ */
+#adminmenu #toplevel_page_mb_hms-settings div.wp-menu-image:before {
+  background: url(../images/mb_hms_logo.svg) no-repeat center;
+  background-size: 90%;
+  content: '';
+}
+
+#adminmenu #menu-posts-room div.wp-menu-image:before {
+  background: url(../images/icons/bed.svg) no-repeat center;
+  background-size: 85%;
+  content: '';
+}
+
+#adminmenu #toplevel_page_mb_hms-settings.wp-menu-open div.wp-menu-image:before,
+#adminmenu #menu-posts-room.wp-menu-open div.wp-menu-image:before {
+  -webkit-filter: grayscale(100%) brightness(5);
+          filter: grayscale(100%) brightness(5);
+}

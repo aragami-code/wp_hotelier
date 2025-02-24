@@ -1,0 +1,3153 @@
+# Copyright (C) 2019  mb_hms
+# This file is distributed under the same license as the  mb_hms package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  mb_hms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../mb_hms.php:91, ../mb_hms.php:98, ../includes/class-mbh-booking.php:89, ../includes/class-mbh-booking.php:96, ../includes/class-mbh-emails.php:47, ../includes/class-mbh-emails.php:54, ../includes/class-mbh-payment-gateways.php:51, ../includes/class-mbh-payment-gateways.php:58
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:160, ../includes/class-mbh-booking.php:171, ../includes/class-mbh-booking.php:177, ../includes/class-mbh-booking.php:198, ../includes/class-mbh-booking.php:254, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:334, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:340, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:356, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:374
+msgid "Error %d: Unable to create reservation. Please try again."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:303, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:43
+msgid "First name"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:304
+msgctxt "placeholder"
+msgid "First name"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:309, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:47
+msgid "Last name"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:310
+msgctxt "placeholder"
+msgid "Last name"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:316, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:52
+msgid "Email address"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:317
+msgctxt "placeholder"
+msgid "Email address"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:324, ../includes/class-mbh-emails.php:278, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:57, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:262
+msgid "Telephone"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:325
+msgctxt "placeholder"
+msgid "Telephone"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:332, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:79
+msgid "Country"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:333
+msgctxt "placeholder"
+msgid "Country"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:338, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:248
+msgid "Address"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:339
+msgctxt "placeholder"
+msgid "Street address"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:344
+msgctxt "placeholder"
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:349, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:69
+msgid "Town / City"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:350
+msgctxt "placeholder"
+msgid "Town / City"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:355, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:76
+msgid "State / County"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:356
+msgctxt "placeholder"
+msgid "State / County"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:361, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:72
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:362
+msgctxt "placeholder"
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:375
+msgid "Your estimated time of arrival"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:376
+msgid "Time is for %s time zone"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:381, ../includes/class-mbh-reservation.php:227, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:96, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:317
+msgid "I don't know"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:409, ../includes/class-mbh-emails.php:220, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:304, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:350
+msgid "Special requests"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:412, ../includes/admin/settings/class-mbh-admin-settings-default.php:201
+msgid "Special requests cannot be guaranteed but we will do our best to meet your needs."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:452
+msgid "Book now & pay deposit"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:456, ../templates/room-list/content/add-to-cart.php:44, ../templates/room-list/content/rate/rate-add-to-cart.php:42
+msgid "Book now"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:462
+msgid "Send request"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:532, ../includes/class-mbh-form-functions.php:130, ../includes/class-mbh-form-functions.php:177, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:97
+msgid "We were unable to process your reservation, please try again."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:545
+msgid "Sorry, your session has expired. <a href=\"%s\" class=\"mbh-backward\">Return to homepage</a>"
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:594
+msgid "is a required field."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:604
+msgid "is not a valid email address."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:611
+msgid "is not a valid number."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:620
+msgid "is not a valid phone number."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:633, ../includes/class-mbh-form-functions.php:83
+msgid "You must accept our Terms &amp; Conditions."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:644, ../includes/class-mbh-form-functions.php:77
+msgid "Invalid payment method."
+msgstr ""
+
+#: ../includes/class-mbh-booking.php:663
+msgid "List of available rooms <a href=\"%s\">here</a>"
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:133
+msgid "Get cart should not be called before the wp_loaded action."
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:198, ../includes/class-mbh-cart.php:557
+msgid "%s has been removed from your cart because it can no longer be reserved. Please contact us if you need assistance."
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:285, ../includes/class-mbh-cart.php:310, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:133, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:184
+msgid "Sorry, this room is not available on the given dates."
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:293, ../includes/class-mbh-cart.php:318, ../includes/class-mbh-cart.php:339, ../includes/class-mbh-cart.php:343, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:174, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:192, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:213, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:217
+msgid "Sorry, this room does not exists."
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:426, ../includes/class-mbh-cart.php:599, ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:271
+msgid "Sorry, this room cannot be reserved."
+msgstr ""
+
+#: ../includes/class-mbh-cart.php:578
+msgid "Sorry, we do not have enough \"%s\" available to fulfill your reservation. Please select another room or reduce the quantity and try again. We apologise for any inconvenience caused."
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:221, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:305, ../templates/reservation/reservation-details.php:41
+msgid "None"
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:240, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:93, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:294, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:313
+msgid "Estimated arrival time"
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:264
+msgid "Name"
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:271, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:255
+msgid "Email"
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:287, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:237, ../includes/admin/new-reservation/views/html-admin-new-reservation.php:71, ../templates/booking/form-guest-details.php:21, ../templates/emails/email-guest-details.php:19, ../templates/reservation/guest-details.php:21
+msgid "Guest details"
+msgstr ""
+
+#: ../includes/class-mbh-emails.php:287
+msgid "Your details"
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:164
+msgid "Please select at least one room."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:283
+msgid "Reservation already cancelled."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:286
+msgid "Reservation already refunded."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:289
+msgid "Your reservation includes a non cancellable and non refundable room and it cannot be cancelled."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:293
+msgid "Reservation cancelled by guest."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:296
+msgid "Your reservation has been cancelled."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:301
+msgid "Your reservation can no longer be cancelled. Please contact us if you need assistance."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:303, ../includes/shortcodes/class-mbh-shortcode-booking.php:119, ../templates/booking/received.php:57
+msgid "Invalid reservation."
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:360
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:360
+msgid "Item"
+msgstr ""
+
+#: ../includes/class-mbh-form-functions.php:362
+msgid "%s removed."
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:127
+msgctxt "datepicker_selected"
+msgid "Your stay:"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:128
+msgctxt "datepicker_night"
+msgid "Night"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:129
+msgctxt "datepicker_nights"
+msgid "Nights"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:130
+msgctxt "datepicker_apply"
+msgid "Close"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:135
+msgctxt "datepicker_error_more"
+msgid "Date range should not be more than 1 night"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:136
+msgctxt "datepicker_error_more_plural"
+msgid "Date range should not be more than %d nights"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:137
+msgctxt "datepicker_error_less"
+msgid "Date range should not be less than 1 night"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:138
+msgctxt "datepicker_error_less_plural"
+msgid "Date range should not be less than %d nights"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:139
+msgctxt "datepicker_info_more"
+msgid "Please select a date range longer than 1 night"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:140
+msgctxt "datepicker_info_more_plural"
+msgid "Please select a date range longer than %d nights"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:141
+msgctxt "datepicker_info_range"
+msgid "Please select a date range between %d and %d nights"
+msgstr ""
+
+#: ../includes/class-mbh-frontend-scripts.php:142
+msgctxt "datepicker_info_default"
+msgid "Please select a date range"
+msgstr ""
+
+#: ../includes/class-mbh-info.php:155
+msgid "Pets are not allowed."
+msgstr ""
+
+#: ../includes/class-mbh-install.php:192
+msgctxt "Page slug"
+msgid "available-rooms"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:193
+msgctxt "Page title"
+msgid "Available rooms"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:197
+msgctxt "Page slug"
+msgid "booking"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:198
+msgctxt "Page title"
+msgid "Booking"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:238
+msgid "View mb_hms settings"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:238, ../includes/admin/settings/class-mbh-admin-settings.php:67
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:254
+msgid "View Easy WP mb_hms documentation"
+msgstr ""
+
+#: ../includes/class-mbh-install.php:254
+msgid "Docs"
+msgstr ""
+
+#: ../includes/class-mbh-payment-gateways.php:98
+msgid "Paypal Standard"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:50
+msgctxt "room post type name"
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:51
+msgctxt "singular room post type name"
+msgid "Room"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:52
+msgid "Add New"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:53
+msgid "Add New Room"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:54
+msgid "Edit Room"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:55
+msgid "New Room"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:56
+msgid "All Rooms"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:57
+msgid "View Room"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:58
+msgid "Search Rooms"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:59
+msgid "No Rooms found"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:60
+msgid "No Rooms found in Trash"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:62
+msgctxt "room post type menu name"
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:84
+msgctxt "post type general name"
+msgid "Reservations"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:85
+msgctxt "post type singular name"
+msgid "Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:86, ../includes/admin/class-mbh-admin-menus.php:42
+msgid "Add Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:87, ../includes/admin/class-mbh-admin-menus.php:42
+msgid "Add New Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:88
+msgid "Edit"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:89
+msgid "Edit Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:90
+msgid "New Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:91, ../includes/class-mbh-post-types.php:92
+msgid "View Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:93
+msgid "Search Reservations"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:94
+msgid "No Reservations found"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:95
+msgid "No Reservations found in Trash"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:96
+msgid "Parent Reservation"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:97
+msgctxt "admin menu name"
+msgid "Reservations"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:102
+msgid "This is where hotel reservations are stored."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:130
+msgctxt "Reservation status"
+msgid "Pending Payment"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:135
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:138, ../includes/mbh-reservation-functions.php:119
+msgctxt "Reservation status"
+msgid "On Hold"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:143
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:146, ../includes/mbh-reservation-functions.php:117
+msgctxt "Reservation status"
+msgid "Confirmed"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:151
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:154, ../includes/mbh-reservation-functions.php:116
+msgctxt "Reservation status"
+msgid "Completed"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:159
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:162, ../includes/mbh-reservation-functions.php:120
+msgctxt "Reservation status"
+msgid "Cancelled"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:167
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:170, ../includes/mbh-reservation-functions.php:122
+msgctxt "Reservation status"
+msgid "Failed"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:175
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:178, ../includes/mbh-reservation-functions.php:121
+msgctxt "Reservation status"
+msgid "Refunded"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:183
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-mbh-post-types.php:206
+msgid "Room Categories"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:207
+msgid "Room Category"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:208
+msgid "Categories"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:209
+msgid "Search Room Categories"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:210
+msgid "All Room Categories"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:211
+msgid "Edit Room Category"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:212
+msgid "Update Room Category"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:213
+msgid "Add New Room Category"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:214
+msgid "New Room Category Name"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:234
+msgctxt "taxonomy general name"
+msgid "Rates"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:235
+msgctxt "taxonomy singular name"
+msgid "Rate"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:236
+msgctxt "admin menu name"
+msgid "Rates"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:237
+msgid "Search Rates"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:238
+msgid "All Rates"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:239
+msgid "Edit Rate"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:240
+msgid "Update Rate"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:241
+msgid "Add New Rate"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:242
+msgid "New Rate Name"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:263
+msgctxt "taxonomy general name"
+msgid "Facilities"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:264
+msgctxt "taxonomy singular name"
+msgid "Facility"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:265
+msgctxt "admin menu name"
+msgid "Facilities"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:266
+msgid "Search Facilities"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:267
+msgid "All Facilities"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:268
+msgid "Edit Facility"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:269
+msgid "Update Facility"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:270
+msgid "Add New Facility"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:271
+msgid "New Facility Name"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:298
+msgid "Room updated. <a href=\"%s\">View Room</a>"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:299, ../includes/class-mbh-post-types.php:314
+msgid "Custom field updated."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:300, ../includes/class-mbh-post-types.php:315
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:301
+msgid "Room updated."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:302
+msgid "Room restored to revision from %s"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:303
+msgid "Room published. <a href=\"%s\">View Room</a>"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:304
+msgid "Room saved."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:305
+msgid "Room submitted. <a target=\"_blank\" href=\"%s\">Preview Room</a>"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:306
+msgid "Room scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Room</a>"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:307, ../includes/class-mbh-post-types.php:322
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:308
+msgid "Room draft updated. <a target=\"_blank\" href=\"%s\">Preview Room</a>"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:313, ../includes/class-mbh-post-types.php:316, ../includes/class-mbh-post-types.php:318
+msgid "Reservation updated."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:317
+msgid "Reservation restored to revision from %s"
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:319
+msgid "Reservation saved."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:320
+msgid "Reservation submitted."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:321
+msgid "Reservation scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:323
+msgid "Reservation draft updated."
+msgstr ""
+
+#: ../includes/class-mbh-post-types.php:324
+msgid "Reservation updated and email sent."
+msgstr ""
+
+#: ../includes/class-mbh-query.php:64, ../includes/admin/settings/class-mbh-admin-settings-default.php:270
+msgid "Pay reservation"
+msgstr ""
+
+#: ../includes/class-mbh-query.php:67, ../includes/admin/settings/class-mbh-admin-settings-default.php:263
+msgid "Reservation received"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:333, ../includes/class-mbh-reservation.php:339, ../includes/admin/class-mbh-admin-functions.php:50, ../includes/admin/settings/class-mbh-admin-settings.php:65
+msgid "mb_hms"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:376
+msgid "Error: Trying to change the status from %1$s to %2$s. %1$s reservations cannot be restored or modified."
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:394
+msgid "Reservation status changed from %s to %s."
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:678
+msgid "Reservation marked as paid."
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:690
+msgid "Reservation marked as unpaid."
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:920, ../includes/class-mbh-reservation.php:975, ../templates/booking/reservation-table.php:98
+msgid "Subtotal:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:925, ../includes/class-mbh-reservation.php:980, ../templates/booking/reservation-table.php:103
+msgid "Tax total:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:935
+msgid "Paid Deposit:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:942
+msgid "Required Deposit:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:949
+msgid "Payment Method:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:957
+msgid "Total Due:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:988, ../includes/class-mbh-reservation.php:1000, ../templates/booking/reservation-table.php:112, ../templates/booking/reservation-table.php:135
+msgid "Total:"
+msgstr ""
+
+#: ../includes/class-mbh-reservation.php:993
+msgid "Deposit Due Now:"
+msgstr ""
+
+#: ../includes/class-mbh-roles.php:32
+msgid "Hotel Manager"
+msgstr ""
+
+#: ../includes/class-mbh-room-variation.php:375, ../includes/class-mbh-room-variation.php:382, ../includes/class-mbh-room.php:746, ../includes/class-mbh-room.php:753
+msgctxt "price"
+msgid "Price: %s"
+msgstr ""
+
+#: ../includes/class-mbh-room-variation.php:444, ../includes/class-mbh-room-variation.php:456, ../includes/class-mbh-room.php:839, ../includes/class-mbh-room.php:873, ../includes/class-mbh-room.php:888
+msgid "Rates from %s per night"
+msgstr ""
+
+#: ../includes/class-mbh-room-variation.php:469, ../includes/class-mbh-room.php:906, ../includes/class-mbh-room.php:908
+msgid "%s per night"
+msgstr ""
+
+#: ../includes/class-mbh-room.php:731
+msgctxt "min_price"
+msgid "From %s"
+msgstr ""
+
+#: ../includes/mbh-cart-functions.php:25
+msgid "This room is protected and cannot be reserved."
+msgstr ""
+
+#: ../includes/mbh-cart-functions.php:140
+msgid "Day"
+msgstr ""
+
+#: ../includes/mbh-cart-functions.php:140, ../templates/booking/form-pay.php:25, ../templates/booking/reservation-table.php:31, ../templates/emails/admin-cancelled-reservation.php:60, ../templates/emails/admin-new-reservation.php:60, ../templates/emails/guest-cancelled-reservation.php:60, ../templates/emails/guest-confirmed-reservation.php:60, ../templates/emails/guest-invoice.php:70, ../templates/emails/guest-request-received.php:60, ../templates/reservation/reservation-table.php:31
+msgid "Cost"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:46
+msgid "US Dollars (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:47
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:48
+msgid "Pounds Sterling (&pound;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:49
+msgid "Australian Dollars (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:50
+msgid "Brazilian Real (R&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:51
+msgid "Canadian Dollars (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:52
+msgid "Czech Koruna"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:53
+msgid "Danish Krone"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:54
+msgid "Hong Kong Dollar (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:55
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:56
+msgid "Israeli Shekel (&#8362;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:57
+msgid "Japanese Yen (&yen;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:58
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:59
+msgid "Mexican Peso (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:60
+msgid "New Zealand Dollar (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:61
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:62
+msgid "Philippine Pesos"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:63
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:64
+msgid "Singapore Dollar (&#36;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:65
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:66
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:67
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:68
+msgid "Thai Baht (&#3647;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:69
+msgid "Indian Rupee (&#8377;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:70
+msgid "Turkish Lira (&#8378;)"
+msgstr ""
+
+#: ../includes/mbh-price-functions.php:71
+msgid "Russian Rubles"
+msgstr ""
+
+#: ../includes/mbh-reservation-functions.php:61
+msgid "Invalid reservation status"
+msgstr ""
+
+#: ../includes/mbh-reservation-functions.php:103
+msgid "Invalid reservation ID"
+msgstr ""
+
+#: ../includes/mbh-reservation-functions.php:118
+msgctxt "Reservation status"
+msgid "Pending"
+msgstr ""
+
+#: ../includes/mbh-reservation-functions.php:362
+msgid "Time limit reached."
+msgstr ""
+
+#: ../includes/mbh-reservation-functions.php:398, ../includes/mbh-reservation-functions.php:400
+msgid "Check-out date reached."
+msgstr ""
+
+#: ../includes/mbh-room-functions.php:44
+msgid "Placeholder"
+msgstr ""
+
+#: ../includes/mbh-room-functions.php:104
+msgid "Please check your dates."
+msgstr ""
+
+#: ../includes/mbh-room-functions.php:575
+msgid "%s nights minimum stay and %s nights maximum stay"
+msgstr ""
+
+#: ../includes/mbh-room-functions.php:577
+msgid "%s nights minimum stay"
+msgstr ""
+
+#: ../includes/mbh-room-functions.php:579
+msgid "%s night maximum stay"
+msgid_plural "%s nights maximum stay"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/mbh-template-functions.php:219
+msgid "Search results for: \"%s\""
+msgstr ""
+
+#: ../includes/mbh-template-functions.php:222
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../includes/mbh-template-functions.php:230
+msgid "Rooms archive"
+msgstr ""
+
+#: ../includes/mbh-template-functions.php:1179
+msgid "required"
+msgstr ""
+
+#: ../includes/mbh-template-functions.php:1327, ../includes/mbh-template-functions.php:1327
+msgid "privacy policy"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-menus.php:49
+msgid "Calendar"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-menus.php:49
+msgid "View Calendar"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-menus.php:56
+msgid "Easy WP mb_hms Extensions"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-menus.php:56
+msgid "Extensions"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-menus.php:63, ../includes/admin/class-mbh-admin-menus.php:63, ../includes/admin/settings/class-mbh-admin-settings.php:137, ../includes/admin/settings/class-mbh-admin-settings.php:138, ../includes/admin/settings/views/html-admin-logs.php:33, ../includes/admin/settings/views/html-admin-logs.php:34
+msgid "Logs"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:97, ../includes/widgets/class-mbh-widget-rooms-filter.php:197, ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:22
+msgid "Guests"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:98
+msgid "Room Type"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:99
+msgid "Available Today"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:100, ../includes/admin/class-mbh-admin-post-types.php:162, ../includes/widgets/class-mbh-widget-rooms.php:45
+msgid "Date"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:133
+msgid "%s room left"
+msgid_plural "%s rooms left"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:137
+msgid "No rooms left!"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:158
+msgid "Guest"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:159
+msgid "Nights"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:160, ../includes/widgets/class-mbh-widget-booking.php:70, ../includes/admin/settings/class-mbh-admin-settings-default.php:166, ../templates/booking/reservation-details.php:29
+msgid "Check-in"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:161, ../includes/widgets/class-mbh-widget-booking.php:80, ../includes/admin/settings/class-mbh-admin-settings-default.php:175, ../templates/booking/reservation-details.php:33
+msgid "Check-out"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:163
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-post-types.php:243
+msgid "This reservation cannot be restored because one or more rooms are no longer available on those dates."
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-scripts.php:111
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-scripts.php:112
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin-scripts.php:126
+msgid "Are you sure you wish to proceed with this charge? This action cannot be undone."
+msgstr ""
+
+#: ../includes/admin/class-mbh-admin.php:57
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">Easy WP mb_hms</a>! If you like it, please leave us a %2$s rating. Cheers :)"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-cancelled-reservation.php:28, ../includes/emails/class-mbh-email-cancelled-reservation.php:30, ../includes/emails/class-mbh-email-guest-cancelled-reservation.php:28, ../includes/emails/class-mbh-email-guest-cancelled-reservation.php:30, ../includes/admin/settings/class-mbh-admin-settings-default.php:751, ../includes/admin/settings/class-mbh-admin-settings-default.php:778, ../includes/admin/settings/class-mbh-admin-settings-default.php:812
+msgid "Cancelled reservation"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-cancelled-reservation.php:31, ../includes/emails/class-mbh-email-guest-invoice.php:31, ../includes/admin/settings/class-mbh-admin-settings-default.php:771
+msgid "{site_title} - Cancelled reservation #{reservation_number}"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-cancelled-reservation.php:31, ../includes/emails/class-mbh-email-guest-confirmed-reservation.php:31, ../includes/emails/class-mbh-email-guest-request-received.php:31, ../includes/admin/settings/class-mbh-admin-settings-default.php:678, ../includes/admin/settings/class-mbh-admin-settings-default.php:709, ../includes/admin/settings/class-mbh-admin-settings-default.php:805
+msgid "Your reservation for {site_title}"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-confirmed-reservation.php:28, ../includes/admin/settings/class-mbh-admin-settings-default.php:689
+msgid "Confirmed reservation"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-confirmed-reservation.php:30, ../includes/admin/settings/class-mbh-admin-settings-default.php:716
+msgid "Thank you for your reservation"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-invoice.php:28, ../includes/admin/settings/class-mbh-admin-settings-default.php:720
+msgid "Guest invoice"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-invoice.php:30, ../includes/admin/settings/class-mbh-admin-settings-default.php:740, ../includes/admin/settings/class-mbh-admin-settings-default.php:747
+msgid "Invoice for reservation #{reservation_number}"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-guest-request-received.php:28, ../includes/emails/class-mbh-email-guest-request-received.php:30, ../includes/admin/settings/class-mbh-admin-settings-default.php:658, ../includes/admin/settings/class-mbh-admin-settings-default.php:685
+msgid "Request received"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-new-reservation.php:28, ../includes/admin/settings/class-mbh-admin-settings-default.php:627
+msgid "New reservation"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-new-reservation.php:30, ../includes/admin/settings/class-mbh-admin-settings-default.php:654
+msgid "New hotel reservation"
+msgstr ""
+
+#: ../includes/emails/class-mbh-email-new-reservation.php:31, ../includes/admin/settings/class-mbh-admin-settings-default.php:647
+msgid "{site_title} - New hotel reservation #{reservation_number}"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-erasers.php:43
+msgid "Removed personal data from reservation %s."
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-erasers.php:46
+msgid "Personal data within reservation %s has been retained."
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-erasers.php:138
+msgid "Personal data removed."
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:35
+msgid "Reservations"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:56
+msgid "Resevation Number"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:57
+msgid "Resevation Date"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:58
+msgid "IP Address"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:59
+msgid "Guest Address"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:60
+msgid "Guest Phone Number"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy-exporters.php:61
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/privacy/class-mbh-privacy.php:54, ../includes/privacy/class-mbh-privacy.php:55
+msgid "Guest Reservations"
+msgstr ""
+
+#: ../includes/shortcodes/class-mbh-shortcode-booking.php:107, ../templates/emails/guest-invoice.php:119
+msgid "Pay deposit"
+msgstr ""
+
+#: ../includes/shortcodes/class-mbh-shortcode-booking.php:111
+msgid "Hi there! Seems that this reservation does not require a deposit. Please contact us if you need assistance."
+msgstr ""
+
+#: ../includes/shortcodes/class-mbh-shortcode-booking.php:115
+msgid "Sorry, this reservation is invalid and cannot be paid for."
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:25
+msgid "Displays current rooms selected and booking details. Visible only in the \"listing\" and \"booking\" pages."
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:27
+msgid "mb_hms Booking"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:31
+msgid "Your stay"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:32, ../includes/widgets/class-mbh-widget-room-search.php:30, ../includes/widgets/class-mbh-widget-rooms-filter.php:30, ../includes/widgets/class-mbh-widget-rooms.php:30
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:63
+msgid "Modify"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:108, ../templates/booking/reservation-table.php:51, ../templates/emails/email-reservation-items.php:26, ../templates/reservation/item.php:25, ../templates/emails/plain/email-reservation-items.php:23
+msgid "Rate: %s"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-booking.php:117, ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:25
+msgid "Total"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:23
+msgid "A search box for rooms only."
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:25
+msgid "mb_hms Room Search"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:52
+msgid "Search for:"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:53
+msgctxt "placeholder"
+msgid "Search rooms&hellip;"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:53
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-room-search.php:54
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:23
+msgid "Displays a custom filter which lets you narrow down the list of rooms. Visible only in the \"listing\" page."
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:25
+msgid "mb_hms Rooms Filter"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:29
+msgid "Refine results"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:35
+msgid "Max guests (type \"0\" to hide this filter)"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:40
+msgid "Max children (type \"0\" to hide this filter)"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:107
+msgid "Room type"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:153
+msgid "Room rate"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms-filter.php:241, ../templates/booking/reservation-table-guests.php:57
+msgid "Children"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:23
+msgid "Display a list of rooms on your site."
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:25
+msgid "mb_hms Rooms"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:29, ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:133
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:38
+msgid "Number of rooms to show"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:43
+msgid "Order by?"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:46
+msgid "Category"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:47
+msgid "IDs"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:52
+msgid "Category IDs"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:54
+msgid "List of category IDs separated by commas (eg. 1,5,8). Works only when the order type is set to \"Category\""
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:58
+msgid "Room IDs"
+msgstr ""
+
+#: ../includes/widgets/class-mbh-widget-rooms.php:60
+msgid "List of room IDs separated by commas (eg. 1,5,8). Works only when the order type is set to \"IDs\""
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:110
+msgid "Licenses"
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:126
+msgid "Enter your extension license keys here to receive updates for purchased extensions. If your license key has expired, please <a href=\"%s\" target=\"_blank\">renew your license</a>."
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:219
+msgid "Nonce verification failed"
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:219, ../includes/admin/license-manager/vendor/EDD_SL_Plugin_Updater.php:396
+msgid "Error"
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:345
+msgid "You have invalid or expired license keys for Easy WP mb_hms. Please go to the <a href=\"%s\">Licenses page</a> to correct this issue."
+msgstr ""
+
+#: ../includes/admin/license-manager/class-mbh-admin-license-manager.php:371
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:127
+msgid "Room Settings"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:128
+msgid "Room Gallery"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:129
+msgid "Room Short Description"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:132
+msgid "Reservation Settings"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:134
+msgid "Save Reservation"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-admin-meta-boxes.php:135
+msgid "Reservation Notes"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:61
+msgid "Address 1"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:65
+msgid "Address 2"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:176, ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-request.php:123
+msgid "Reservation"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:180
+msgid "Reservation #%d details"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:183, ../includes/admin/settings/class-mbh-admin-settings-default.php:448
+msgid "Booking mode"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:186
+msgid "(created by admin)"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:190
+msgid "Payment via %s"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:195
+msgid "Transaction ID:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:206
+msgid "General details"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:208
+msgid "Reservation status:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:222, ../includes/admin/new-reservation/views/html-admin-new-reservation.php:59, ../templates/emails/admin-cancelled-reservation.php:42, ../templates/emails/admin-new-reservation.php:42, ../templates/emails/guest-cancelled-reservation.php:42, ../templates/emails/guest-confirmed-reservation.php:42, ../templates/emails/guest-invoice.php:52, ../templates/emails/guest-request-received.php:42, ../templates/reservation/reservation-details.php:28
+msgid "Check-in:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:227, ../includes/admin/new-reservation/views/html-admin-new-reservation.php:65, ../templates/emails/admin-cancelled-reservation.php:45, ../templates/emails/admin-new-reservation.php:45, ../templates/emails/guest-cancelled-reservation.php:45, ../templates/emails/guest-confirmed-reservation.php:45, ../templates/emails/guest-invoice.php:55, ../templates/emails/guest-request-received.php:45, ../templates/reservation/reservation-details.php:32
+msgid "Check-out:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:231
+msgid "%d-night stay"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-data.php:284
+msgid "Guest notes"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-notes.php:52
+msgid "Added on %1$s at %2$s"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-notes.php:58
+msgid "There are no notes yet."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:38
+msgid "Resend reservation emails."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:41, ../includes/admin/settings/class-mbh-admin-settings.php:97
+msgid "Emails"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:58, ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:58, ../includes/admin/settings/class-mbh-admin-settings-fields.php:485
+msgid "Send email"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:66
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:68
+msgid "Move to Trash"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:75, ../includes/admin/new-reservation/views/html-admin-new-reservation.php:87
+msgid "Save reservation"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-reservation-save.php:110
+msgid "%s email notification manually sent."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:39, ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:51
+msgid "Delete image"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:39, ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:51
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:51
+msgid "Add images to room gallery"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:51
+msgid "Add to gallery"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-images.php:51
+msgid "Add room gallery images"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:105, ../templates/single-room/meta.php:39
+msgid "Room type:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:107, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:181, ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:28, ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:35
+msgid "Standard room"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:108, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:260
+msgid "Variable room"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:118, ../templates/single-room/meta.php:25, ../templates/room-list/content/max-guests.php:24
+msgid "Guests:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:128, ../templates/single-room/meta.php:28
+msgid "Children:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:138, ../templates/single-room/meta.php:36, ../templates/room-list/content/meta.php:27
+msgid "Bed size(s):"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:139
+msgid "1 king"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:149
+msgid "Room size"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:159
+msgid "Stock rooms?"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:161
+msgid "This is the total number of rooms available in the structure."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:167
+msgid "Additional settings"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:201, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:330
+msgid "Require deposit?"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:202, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:331
+msgid "When selected, a deposit is required at the time of booking."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:214, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:344
+msgid "Deposit amount:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:236, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:367
+msgid "Non cancellable?"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:237, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:368
+msgid "When checked, reservations that include this room will be non cancellable and non refundable."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:263, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:401
+msgid "Expand all"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:264, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:402
+msgid "Close all"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:265, ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:403
+msgid "Add room rate"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:292
+msgid "Room rate:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:303, ../includes/admin/settings/class-mbh-admin-settings-fields.php:539, ../includes/admin/settings/class-mbh-admin-settings-fields.php:558, ../includes/admin/meta-boxes/views/html-meta-box-room-conditions-variation.php:40, ../includes/admin/meta-boxes/views/html-meta-box-room-conditions.php:35, ../templates/booking/reservation-table.php:62
+msgid "Remove"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:396
+msgid "Before adding variations, add and save some <a href=\"%1$s\">room rates</a>."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:411
+msgid "Additional room settings"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:414
+msgid "Back to the room settings"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:428
+msgid "Additional details"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/class-mbh-meta-box-room-settings.php:429
+msgid "These details are not prominent by default; however, some themes may show them."
+msgstr ""
+
+#: ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:127
+msgid "Please fill the required fields."
+msgstr ""
+
+#: ../includes/admin/new-reservation/class-mbh-admin-new-reservation.php:389
+msgid "Reservation manually created by admin."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:64
+msgid "No booking"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:65
+msgid "Manual booking"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:66
+msgid "Instant booking "
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:77
+msgid "Plain text"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:78
+msgid "HTML"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:79
+msgid "Multipart text"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:90
+msgid "Menu order"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:91
+msgid "Sort by most recent"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:92
+msgid "Sort by title"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:112
+msgid "Hotel info"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:117
+msgid "Hotel name"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:118
+msgid "The name of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:124
+msgid "Hotel address"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:125
+msgid "The address of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:131
+msgid "Hotel postcode"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:132
+msgid "The postcode/zip of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:138
+msgid "Hotel locality"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:139
+msgid "The locality of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:145
+msgid "Hotel telephone"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:146
+msgid "The telephone number of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:152
+msgid "Hotel fax"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:153
+msgid "The fax number of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:159
+msgid "Hotel email"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:160
+msgid "The email address of your hotel."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:184, ../templates/booking/reservation-details.php:38
+msgid "Pets"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:185
+msgid "Are pets allowed?"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:191
+msgid "Pets instructions"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:192
+msgid "If you need to give some special instructions, use this field."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:194
+msgid "Pets are allowed"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:198
+msgid "Special requests message"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:199
+msgid "This description will appear under the special requests textarea."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:205, ../templates/booking/reservation-details.php:45
+msgid "Accepted credit cards"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:206
+msgid "The accepted credit cards for payments made at the hotel. These are not used to pay the deposit (configure the <a href=\"%s\">Payment Gateways</a> settings for that)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:220
+msgid "mb_hms pages"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:225, ../includes/admin/settings/class-mbh-admin-settings-default.php:891
+msgid "Listing page"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:226
+msgid "This is the page (the listing page) where guests will see the rooms that are available for the selected dates. The [mb_hms_listing] shortcode must be on this page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:232, ../includes/admin/settings/class-mbh-admin-settings-default.php:896
+msgid "Booking page"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:233
+msgid "This is the booking page where guests will complete their reservations. The [mb_hms_booking] shortcode must be on this page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:239
+msgid "Terms page"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:240
+msgid "If set, guests will be asked to agree to the hotel terms before to request a new reservation."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:246
+msgid "Enforce SSL booking"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:247
+msgid "Enforce SSL (HTTPS) on the booking page (you must have an SSL certificate installed to use this option)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:252
+msgid "Force HTTP leaving booking"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:253
+msgid "Force HTTP when leaving the booking page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:258
+msgid "mb_hms endpoints"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:264
+msgid "This endpoint is appended to the booking page to display the page guests are sent to after completing their reservation."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:271
+msgid "This endpoint is appended to the booking page to display the payment form (for reservations generated by the admin)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:277
+msgid "Currency settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:282
+msgid "Currency"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:283
+msgid "Choose your currency. Note that some payment gateways have currency restrictions."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:289
+msgid "Currency position"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:290
+msgid "Choose the location of the currency sign."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:293
+msgid "Before - $10"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:294
+msgid "After - 10$"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:299
+msgid "Thousands separator"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:300
+msgid "This sets the thousand separator (usually , or .) of displayed prices."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:307
+msgid "Decimal separator"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:308
+msgid "This sets the decimal separator (usually , or .) of displayed prices."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:315
+msgid "Number of decimals"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:316
+msgid "This sets the number of decimals points shown in displayed prices."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:323
+msgid "Privacy settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:328
+msgid "Account erasure requests"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:329
+msgid "When handling an account erasure request, should personal data within reservations be retained or removed?"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:334
+msgid "Privacy snippet"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:335
+msgid "Optionally add some text about your website privacy policy to show on the booking form. %1$s will be replaced by a link to your <a href=\"%2$s\">privacy policy page</a>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:336
+msgid "Your personal data will be used to support your experience throughout this website, to process your reservations, and for other purposes described in our [privacy_policy]."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:346
+msgid "Room settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:351
+msgid "Room size unit"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:357
+msgid "Listing settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:362
+msgid "Default room sorting"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:368
+msgid "Low room availability threshold"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:375
+msgid "Show rooms unavailable"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:376
+msgid "Show rooms that are unavailable for the selected dates."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:381
+msgid "Book now behaviour"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:382
+msgid "Redirect to the booking page after successful addition (this will not allow multiple rooms on the same reservations)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:387
+msgid "Allow quantity selection"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:388
+msgid "Allow quantity selection, then redirect to the booking page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:393
+msgid "Room images"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:398
+msgid "These settings affect the display and dimensions of images in your website, but the display on the front-end will still be affected by the CSS of your theme. After changing these settings you may need to <a href=\"%s\">regenerate your thumbnails</a>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:403
+msgid "Catalog images"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:404
+msgid "This size is usually used when you list the rooms."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:414
+msgid "Single room image"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:415
+msgid "This size is the size used on the single room page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:425
+msgid "Room thumbnails"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:426
+msgid "This size is usually used for the gallery of images on the room page."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:436
+msgid "Enable lightbox for room images"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:437
+msgid "Room gallery images will open in a lightbox."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:443
+msgid "Reservation settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:449
+msgid "<ul><li><strong>No booking</strong>Show only the room details.</li><li><strong>Manual booking</strong>Guests will be able to request a reservation and the admin will approve or reject the booking manually.</li><li><strong>Instant booking</strong>Guests will be able to make a reservation without manual approval from the admin.</li></ul>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:456
+msgid "Show additional information"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:457
+msgid "Show the \"arrival estimated time\" and the \"special requests\" field in the booking form."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:463
+msgid "Show number of guests selection"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:464
+msgid "Show a dropdown in the booking form where the guest specifies the number of adults and children for each room."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:470
+msgid "Months in advance"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:471
+msgid "Only allow reservations for \"XX\" months from current date (0 unlimited)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:478
+msgid "Arrival date"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:479
+msgid "Arrival date must be \"XX\" days from current date."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:486
+msgid "Minimum nights"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:487
+msgid "Minimum number of nights a guest can book."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:494
+msgid "Maximum nights"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:495
+msgid "Maximum number of nights a guest can book (0 unlimited)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:502
+msgid "Hold reservation (minutes)"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:503
+msgid "Hold reservation (for unpaid reservations that require a deposit) for \"XX\" minutes. When this limit is reached, the pending reservation will be cancelled. Type \"0\" to disable. Reservations created by admin will be not cancelled."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:515
+msgid "Seasonal prices schema"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:520
+msgid "Define here your global price schema, adding one rate for each date range. Rooms will have a default price (used when no rules are found) and a specific price for each season. To use this schema edit a room, select <em>Seasonal prices</em> in the <em>Price</em> dropdown, and enter the price amount of each season."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:525
+msgid "Price schema"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:526
+msgid "Each date range should have have a different price. The last rule defined overrides any previous rules. When you re-order the schema, remember to update the prices on already created rooms."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:536, ../includes/admin/settings/class-mbh-admin-settings.php:95
+msgid "Payment gateways"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:542
+msgid "Default gateway"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:553
+msgid "Tax settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:558
+msgid "Enable tax"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:564
+msgid "Tax rate %"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:565
+msgid "Enter a tax rate (percentage) to 4 decimal places. Use a point (.) for the decimal separator."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:571
+msgid "Enable tax on deposits"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:582
+msgid "Email options"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:587
+msgid "Reservation notification emails"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:588
+msgid "Enter the email address(es) (comma separated) that should receive a notification anytime a reservation is made. Default to <code>%s</code>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:595
+msgid "\"From\" name"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:601
+msgid "\"From\" email address"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:607
+msgid "Email type"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:614
+msgid "Email logo"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:615
+msgid "Upload or choose a logo to be displayed at the top of mb_hms emails. Displayed on HTML emails only."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:620
+msgid "Email footer text"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:621
+msgid "The text to appear in the footer of mb_hms emails."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:623
+msgid "Powered by Easy WP mb_hms"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:632
+msgid "New reservation emails are sent to the admin when a reservation (or a booking request in \"manual\" mode) is made."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:637, ../includes/admin/settings/class-mbh-admin-settings-default.php:668, ../includes/admin/settings/class-mbh-admin-settings-default.php:699, ../includes/admin/settings/class-mbh-admin-settings-default.php:730, ../includes/admin/settings/class-mbh-admin-settings-default.php:761, ../includes/admin/settings/class-mbh-admin-settings-default.php:795
+msgid "Enable/disable"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:638, ../includes/admin/settings/class-mbh-admin-settings-default.php:669, ../includes/admin/settings/class-mbh-admin-settings-default.php:700, ../includes/admin/settings/class-mbh-admin-settings-default.php:731, ../includes/admin/settings/class-mbh-admin-settings-default.php:762, ../includes/admin/settings/class-mbh-admin-settings-default.php:796
+msgid "Enable this email notification."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:644, ../includes/admin/settings/class-mbh-admin-settings-default.php:675, ../includes/admin/settings/class-mbh-admin-settings-default.php:706, ../includes/admin/settings/class-mbh-admin-settings-default.php:737, ../includes/admin/settings/class-mbh-admin-settings-default.php:768, ../includes/admin/settings/class-mbh-admin-settings-default.php:802
+msgid "Email subject"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:645
+msgid "This controls the email subject line. Default: <code>{site_title} - New hotel reservation #{reservation_number}</code>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:651, ../includes/admin/settings/class-mbh-admin-settings-default.php:682, ../includes/admin/settings/class-mbh-admin-settings-default.php:713, ../includes/admin/settings/class-mbh-admin-settings-default.php:744, ../includes/admin/settings/class-mbh-admin-settings-default.php:775, ../includes/admin/settings/class-mbh-admin-settings-default.php:809
+msgid "Email heading"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:652, ../includes/admin/settings/class-mbh-admin-settings-default.php:683, ../includes/admin/settings/class-mbh-admin-settings-default.php:714, ../includes/admin/settings/class-mbh-admin-settings-default.php:745, ../includes/admin/settings/class-mbh-admin-settings-default.php:776, ../includes/admin/settings/class-mbh-admin-settings-default.php:810
+msgid "This controls the main heading contained within the email notification."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:663
+msgid "Request received emails are sent to guests when they request a booking (\"manual\" booking mode only)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:676, ../includes/admin/settings/class-mbh-admin-settings-default.php:707, ../includes/admin/settings/class-mbh-admin-settings-default.php:803
+msgid "This controls the email subject line. Default: <code>Your reservation for {site_title}</code>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:694
+msgid "Reservation confirmed emails are sent to guests when their reservations are marked confirmed. By the admin (when sent manually) or automatically (after payment if required or immediately in \"instant\" booking mode)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:725
+msgid "Guest invoice emails can be sent to guests containing their reservation information and payment links. Use these emails when you (the admin) create a reservation manually that requires a payment (deposit)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:738
+msgid "This controls the email subject line. Default: <code>Invoice for reservation #{reservation_number}</code>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:756
+msgid "Cancelled reservation emails are sent to the admin when the guest cancels his reservation."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:769
+msgid "This controls the email subject line. Default: <code>{site_title} - Cancelled reservation #{reservation_number}</code>"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:785
+msgid "Guest cancelled reservation"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:790
+msgid "Cancelled reservation emails are sent to guests when reservations have been marked cancelled."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:825
+msgid "Install mb_hms pages"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:826
+msgid "This tool will install all the missing mb_hms pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:831
+msgid "Send test email"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:832
+msgid "Test if your WordPress installation is sending emails correctly."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:837
+msgid "Template debug mode"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:838
+msgid "This tool will disable template overrides for logged-in administrators for debugging purposes."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:843
+msgid "Cleanup guest sessions"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:844
+msgid "This tool will delete all guest session data from the database (including any current live booking)."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:849
+msgid "Delete completed bookings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:850
+msgid "This tool will delete all completed bookings from the database."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:855
+msgid "Remove data on uninstall"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:856
+msgid "This tool will remove all mb_hms, Rooms and Reservations data when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:861
+msgid "Server settings & info"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:866
+msgid "Easy WP mb_hms version"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:871
+msgid "Theme name"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:876
+msgid "Theme version"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:881
+msgid "Parent theme name"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:886
+msgid "Parent theme version"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:901
+msgid "Server info"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:906
+msgid "PHP version"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:911
+msgid "WP memory limit"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:916
+msgid "WP debug"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:921
+msgid "PHP post max size"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:926
+msgid "PHP max upload size"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:931
+msgid "PHP time limit"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:936
+msgid "PHP max input vars"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:941
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:946
+msgid "DOMDocument"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-default.php:951
+msgid "Log directory writable"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:243
+msgid "Upload"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:400
+msgid "Hard crop?"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:425
+msgid "From:"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:434
+msgid "To:"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:481
+msgid "Install pages"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:489
+msgid "Clear sessions"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:493
+msgid "Delete bookings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:530, ../includes/admin/settings/class-mbh-admin-settings-fields.php:549
+msgid "From"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:532, ../includes/admin/settings/class-mbh-admin-settings-fields.php:551
+msgid "To"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:534, ../includes/admin/settings/class-mbh-admin-settings-fields.php:553
+msgid "Every year?"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:567
+msgid "Add new rule"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:599
+msgid "Your license key expired on %s. Please <a href=\"%s\" target=\"_blank\">renew your license key</a>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:612
+msgid "Your license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:624
+msgid "Invalid license. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:637
+msgid "Your %s is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:649
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:658
+msgid "Your license key has reached its activation limit. <a href=\"%s\">View possible upgrades</a> now."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:667
+msgid "unknown_error"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:668
+msgid "There was an error with this license key: %s. Please <a href=\"%s\">contact our support team</a>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:688
+msgid "License key never expires."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:695
+msgid "Your license key expires soon! It expires on %s. <a href=\"%s\" target=\"_blank\">Renew your license key</a>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:705
+msgid "Your license key expires on %s."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:723
+msgid "To receive updates, please enter your valid %s license key."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:730
+msgid "License Key"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:735
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:778
+msgid "All missing mb_hms pages was installed successfully."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:792
+msgid "Test email from %s"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:797
+msgid "Email sent. This does not mean it has been delivered. See %s in the Codex for more information."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:816
+msgid "Sessions successfully cleared."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:849
+msgid "Bookings successfully deleted."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:933, ../includes/admin/settings/class-mbh-admin-settings-fields.php:955
+msgid "Page not set"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:935, ../includes/admin/settings/class-mbh-admin-settings-fields.php:957
+msgid "The page is set, but it does not exist"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:937, ../includes/admin/settings/class-mbh-admin-settings-fields.php:959
+msgid "The page is set, but it is not public"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:939, ../includes/admin/settings/class-mbh-admin-settings-fields.php:961
+msgid "The page requires this shortcode: %s"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:973, ../includes/admin/settings/class-mbh-admin-settings-fields.php:986, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1003, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1033, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1055, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1068
+msgid "Not available"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:990
+msgid "%s - Easy WP mb_hms requires at least PHP 5.6.0. Please update your PHP version."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1008
+msgid "%s - We recommend setting memory to at least 64MB."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1021, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1082, ../includes/admin/settings/class-mbh-admin-settings-fields.php:1095
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1023
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1084
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1097
+msgid "Your server does not have the DOMDocument class enabled - Some extensions may not work without DOMDocument"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings-fields.php:1110
+msgid "To allow logging, make <code>%s</code> writable or define a custom <code>mbh_LOG_DIR</code>."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:67
+msgid "Easy WP mb_hms Settings"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:92
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:93
+msgid "Rooms & reservations"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:94
+msgid "Seasonal prices"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:96
+msgid "Tax"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:98
+msgid "Tools"
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:271
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../includes/admin/settings/class-mbh-admin-settings.php:284
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:28
+msgid "PayPal"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:50
+msgid "PayPal settings"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:55
+msgid "PayPal standard sends customers to PayPal to enter their payment information. PayPal IPN requires <a href=\"%s\">fsockopen/cURL</a> support to update bookings after payment."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:60
+msgid "PayPal description"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:61
+msgid "The description the user sees during the booking."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:62
+msgid "Pay with PayPal - The safer, easier way to pay online!"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:67
+msgid "PayPal sandbox"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:68
+msgid "Enable test mode."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:69
+msgid "While in test mode no live transactions are processed. To fully use test mode, you must have a PayPal sandbox (test) account."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:74
+msgid "Debug log"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:75
+msgid "Enable logging."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:76
+msgid "Log PayPal events, such as IPN requests, inside <code>%s</code>. Please note: this may log personal information. We recommend using this for debugging purposes only and deleting the logs when finished."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:81
+msgid "PayPal email"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:82
+msgid "Enter your PayPal account's email."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:88
+msgid "PayPal page style"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/class-mbh-gateway-paypal.php:89
+msgid "Enter the name of the page style to use, or leave blank for default. These are defined within your PayPal account."
+msgstr ""
+
+#: ../includes/admin/addons/views/html-admin-page-addons.php:19
+msgid "Supercharge your hotel website with extensions built specifically for Easy WP mb_hms."
+msgstr ""
+
+#: ../includes/admin/addons/views/html-admin-page-addons.php:20
+msgid "Premium extensions are special WordPress plugins that enhance, or extend, the core Easy WP mb_hms functionalities."
+msgstr ""
+
+#: ../includes/admin/addons/views/html-admin-page-addons.php:39
+msgid "View extension"
+msgstr ""
+
+#: ../includes/admin/addons/views/html-admin-page-addons.php:39
+msgid "Get this extension"
+msgstr ""
+
+#: ../includes/admin/addons/views/html-admin-page-addons.php:49
+msgid "Our catalog of Easy WP mb_hms Extensions can be found on Easy WP mb_hms here: <a href=\"%s\">Easy WP mb_hms Extensions</a>"
+msgstr ""
+
+#: ../includes/admin/calendar/views/html-admin-calendar.php:21
+msgid "Booking calendar"
+msgstr ""
+
+#: ../includes/admin/calendar/views/html-admin-calendar.php:75
+msgid "Today"
+msgstr ""
+
+#: ../includes/admin/calendar/views/html-admin-calendar.php:88
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/admin/calendar/views/html-admin-calendar.php:95
+msgid "Filter"
+msgstr ""
+
+#: ../includes/admin/calendar/views/html-admin-calendar.php:101
+msgid "Go to date"
+msgstr ""
+
+#: ../includes/admin/license-manager/vendor/EDD_SL_Plugin_Updater.php:201
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/admin/license-manager/vendor/EDD_SL_Plugin_Updater.php:209
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/admin/license-manager/vendor/EDD_SL_Plugin_Updater.php:396
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:18, ../templates/booking/form-pay.php:23, ../templates/booking/reservation-table.php:29, ../templates/emails/admin-cancelled-reservation.php:58, ../templates/emails/admin-new-reservation.php:58, ../templates/emails/guest-cancelled-reservation.php:58, ../templates/emails/guest-confirmed-reservation.php:58, ../templates/emails/guest-invoice.php:68, ../templates/emails/guest-request-received.php:58, ../templates/reservation/reservation-table.php:29
+msgid "Room"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:23
+msgid "Price"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:24, ../templates/booking/form-pay.php:24, ../templates/booking/reservation-table.php:30, ../templates/emails/admin-cancelled-reservation.php:59, ../templates/emails/admin-new-reservation.php:59, ../templates/emails/guest-cancelled-reservation.php:59, ../templates/emails/guest-confirmed-reservation.php:59, ../templates/emails/guest-invoice.php:69, ../templates/emails/guest-request-received.php:59, ../templates/reservation/reservation-table.php:30
+msgid "Qty"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:57
+msgid "Tax total"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:70
+msgid "Total charge"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:82
+msgid "Paid deposit"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:84
+msgid "Deposit due"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:116
+msgid "Remain deposit charged manually (%s)"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:126
+msgid "Balance due"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:142
+msgid "This reservation has been refunded"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:149, ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:39, ../templates/booking/reservation-table.php:55, ../templates/emails/email-reservation-items.php:31, ../templates/reservation/item.php:29, ../templates/single-room/non-cancellable-info.php:24, ../templates/emails/plain/email-reservation-items.php:28, ../templates/room-list/content/non-cancellable-info.php:24, ../templates/single-room/rate/rate-non-cancellable-info.php:21, ../templates/room-list/content/rate/rate-non-cancellable-info.php:22
+msgid "Non-refundable"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:157
+msgid "Charge remain deposit"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:161
+msgid "Mark as unpaid"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-items.php:163
+msgid "Mark as paid"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:26
+msgid "Rate"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:57, ../templates/booking/reservation-table-guests.php:26, ../templates/emails/email-reservation-items.php:46, ../templates/reservation/item-guests.php:33, ../templates/emails/plain/email-reservation-items.php:49
+msgid "Number of guests (Room %d):"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:59, ../templates/booking/reservation-table-guests.php:28, ../templates/emails/email-reservation-items.php:48, ../templates/reservation/item-guests.php:35, ../templates/emails/plain/email-reservation-items.php:51
+msgid "Number of guests:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:63, ../templates/emails/email-reservation-items.php:52, ../templates/reservation/item-guests.php:39, ../templates/emails/plain/email-reservation-items.php:55
+msgid "%s Adult"
+msgid_plural "%s Adults"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-reservation-single-item.php:67, ../templates/emails/email-reservation-items.php:56, ../templates/reservation/item-guests.php:43, ../templates/emails/plain/email-reservation-items.php:59
+msgid "%d Children"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-conditions-variation.php:14, ../includes/admin/meta-boxes/views/html-meta-box-room-conditions.php:14
+msgid "Conditions:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-conditions-variation.php:36, ../includes/admin/meta-boxes/views/html-meta-box-room-conditions.php:31
+msgid "Special condition here"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-conditions-variation.php:51, ../includes/admin/meta-boxes/views/html-meta-box-room-conditions.php:46
+msgid "Add new condition"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:19, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:19
+msgid "Global"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:20, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:20
+msgid "Price per day"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:21, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:21
+msgid "Seasonal price"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:29, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:27
+msgid "Price:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:44, ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:80, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:42, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:74
+msgid "Regular price:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:49, ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:63, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:47, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:59
+msgid "Same price for all days of the week."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:58, ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:91, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:54, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:83
+msgid "Sale price:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:82, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:76
+msgid "The regular price of the room per day."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:93, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:85
+msgid "The sale price of the room per day."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:110, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:100
+msgid "Default price:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:115, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:105
+msgid "Default room price. Used when no rules are found."
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:125, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:120
+msgid "Price from %s to %s:"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:128, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:128
+msgid "(Every year)"
+msgstr ""
+
+#: ../includes/admin/meta-boxes/views/html-meta-box-room-price-variation.php:137, ../includes/admin/meta-boxes/views/html-meta-box-room-price.php:137
+msgid "There are no seasonal prices defined. Add some date ranges <a href=\"%1$s\">here</a>."
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:42
+msgid "Add new reservation"
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:48
+msgid "Select room:"
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:53
+msgid "Remove room"
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:55
+msgid "Add another room"
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:94
+msgid "In order to create a reservation, you need to have at least one room."
+msgstr ""
+
+#: ../includes/admin/new-reservation/views/html-admin-new-reservation.php:96
+msgid "Create a new room <a href=\"%s\">here</a>."
+msgstr ""
+
+#: ../includes/admin/settings/views/html-admin-logs.php:42
+msgid "Log file: %s (%s)"
+msgstr ""
+
+#: ../includes/admin/settings/views/html-admin-logs.php:49
+msgid "View"
+msgstr ""
+
+#: ../includes/admin/settings/views/html-admin-logs.php:56
+msgid "There are currently no logs to view."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:142
+msgid "Validation error: PayPal currencies do not match (code %s)."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:156
+msgid "Validation error: PayPal amounts do not match (gross %s)."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:171
+msgid "Validation error: PayPal IPN response from a different email address (%s)."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:197
+msgid "IPN payment completed"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:205
+msgid "Payment pending: %s"
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:222
+msgid "Payment %s via IPN."
+msgstr ""
+
+#: ../includes/gateways/paypal-standard/includes/class-mbh-gateway-paypal-response.php:259
+msgid "Payment %s via IPN (gross %s)."
+msgstr ""
+
+#: ../templates/booking/cart-errors.php:20
+msgid "There are some issues with the items in your cart (shown above). Please go back and resolve these issues before the booking."
+msgstr ""
+
+#: ../templates/booking/cart-errors.php:24, ../templates/booking/received.php:59
+msgid "List of available rooms"
+msgstr ""
+
+#: ../templates/booking/form-additional-information.php:21
+msgid "Additional information"
+msgstr ""
+
+#: ../templates/booking/form-pay.php:59, ../templates/booking/payment.php:20
+msgid "Payment method"
+msgstr ""
+
+#: ../templates/booking/form-pay.php:71, ../templates/booking/payment.php:32
+msgid "Sorry, it seems that there are no available payment methods. Please contact us if you require assistance."
+msgstr ""
+
+#: ../templates/booking/received.php:22
+msgid "Unfortunately your reservation cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: ../templates/booking/received.php:25
+msgid "Pay"
+msgstr ""
+
+#: ../templates/booking/received.php:30
+msgid "This reservation has been cancelled. The reservation was as follows."
+msgstr ""
+
+#: ../templates/booking/received.php:36
+msgid "This reservation has been refunded. The reservation was as follows."
+msgstr ""
+
+#: ../templates/booking/received.php:42
+msgid "Thank you. Your reservation has been received."
+msgstr ""
+
+#: ../templates/booking/reservation-details.php:21
+msgid "Booking details"
+msgstr ""
+
+#: ../templates/booking/reservation-table-guests.php:40
+msgid "Adults"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:21
+msgid "Your reservation"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:75, ../templates/booking/reservation-table.php:75
+msgid "View price breakdown"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:75
+msgid "Hide price breakdown"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:119
+msgid "Deposit due now:"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:126
+msgid "Deposit due after confirm:"
+msgstr ""
+
+#: ../templates/booking/reservation-table.php:147, ../templates/emails/guest-confirmed-reservation.php:103, ../templates/emails/guest-invoice.php:113, ../templates/emails/guest-request-received.php:103, ../templates/reservation/reservation-table.php:64, ../templates/emails/plain/guest-confirmed-reservation.php:48, ../templates/emails/plain/guest-invoice.php:55, ../templates/emails/plain/guest-request-received.php:48
+msgid "This reservation includes a non-cancellable and non-refundable room. You will be charged the total price if you cancel your booking."
+msgstr ""
+
+#: ../templates/booking/terms.php:21
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-reservation.php:21, ../templates/emails/plain/admin-cancelled-reservation.php:18
+msgid "The reservation #%d from %s has been cancelled. The reservation was as follows."
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-reservation.php:33, ../templates/emails/admin-new-reservation.php:33, ../templates/emails/guest-cancelled-reservation.php:33, ../templates/emails/guest-confirmed-reservation.php:33, ../templates/emails/guest-invoice.php:43, ../templates/emails/guest-request-received.php:33, ../templates/emails/plain/admin-cancelled-reservation.php:32, ../templates/emails/plain/admin-new-reservation.php:32, ../templates/emails/plain/guest-cancelled-reservation.php:32, ../templates/emails/plain/guest-confirmed-reservation.php:32, ../templates/emails/plain/guest-invoice.php:39, ../templates/emails/plain/guest-request-received.php:32
+msgid "Reservation number: %s"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-reservation.php:48, ../templates/emails/admin-new-reservation.php:48, ../templates/emails/guest-cancelled-reservation.php:48, ../templates/emails/guest-confirmed-reservation.php:48, ../templates/emails/guest-invoice.php:58, ../templates/emails/guest-request-received.php:48, ../templates/reservation/reservation-details.php:36
+msgid "Nights:"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-reservation.php:101, ../templates/emails/admin-new-reservation.php:101, ../templates/emails/guest-confirmed-reservation.php:108, ../templates/emails/guest-request-received.php:108
+msgid "View reservation"
+msgstr ""
+
+#: ../templates/emails/admin-new-reservation.php:21, ../templates/emails/plain/admin-new-reservation.php:18
+msgid "You have received a reservation from %s."
+msgstr ""
+
+#: ../templates/emails/email-guest-address.php:19, ../templates/reservation/guest-details.php:53, ../templates/emails/plain/email-guest-address.php:16
+msgid "Guest address"
+msgstr ""
+
+#: ../templates/emails/email-hotel-info.php:25, ../templates/reservation/guest-details.php:41
+msgid "Telephone:"
+msgstr ""
+
+#: ../templates/emails/email-hotel-info.php:28
+msgid "Fax:"
+msgstr ""
+
+#: ../templates/emails/email-hotel-info.php:31, ../templates/reservation/guest-details.php:34
+msgid "Email:"
+msgstr ""
+
+#: ../templates/emails/guest-cancelled-reservation.php:21, ../templates/emails/plain/guest-cancelled-reservation.php:18
+msgid "Hello %s, your reservation has been cancelled. The reservation was as follows."
+msgstr ""
+
+#: ../templates/emails/guest-confirmed-reservation.php:21, ../templates/emails/plain/guest-confirmed-reservation.php:18
+msgid "Hello %s, your reservation has been confirmed. Your reservation details are shown below for your reference."
+msgstr ""
+
+#: ../templates/emails/guest-invoice.php:24
+msgid "Hello %s, a reservation has been created for you on %s. To pay for this reservation please use the button below."
+msgstr ""
+
+#: ../templates/emails/guest-invoice.php:28, ../templates/emails/plain/guest-invoice.php:23
+msgid "Hello %s, a reservation has been created for you on %s."
+msgstr ""
+
+#: ../templates/emails/guest-request-received.php:21, ../templates/emails/plain/guest-request-received.php:18
+msgid "Thank you, your booking request has been received and is now being processed. Your reservation details are shown below for your reference."
+msgstr ""
+
+#: ../templates/global/datepicker.php:27, ../templates/single-room/rate/rate-button.php:22
+msgid "Check availability"
+msgstr ""
+
+#: ../templates/global/quantity-input.php:19
+msgid "Nr. rooms"
+msgstr ""
+
+#: ../templates/global/quantity-input.php:20
+msgctxt "Room quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../templates/loop/no-rooms-found.php:18
+msgid "No rooms were found matching your selection."
+msgstr ""
+
+#: ../templates/loop/pagination.php:26
+msgid "Posts navigation"
+msgstr ""
+
+#: ../templates/reservation/cancel-reservation.php:19
+msgid "Cancel reservation"
+msgstr ""
+
+#: ../templates/reservation/guest-details.php:27
+msgid "Name:"
+msgstr ""
+
+#: ../templates/reservation/reservation-details.php:20
+msgid "Reservation number:"
+msgstr ""
+
+#: ../templates/reservation/reservation-details.php:24
+msgid "Date:"
+msgstr ""
+
+#: ../templates/reservation/reservation-details.php:40
+msgid "Special requests:"
+msgstr ""
+
+#: ../templates/reservation/reservation-table.php:23
+msgid "Reservation details"
+msgstr ""
+
+#: ../templates/room-list/no-rooms-available.php:18
+msgid "We are sorry, there are no rooms available on your requested dates. Please try again with some different dates."
+msgstr ""
+
+#: ../templates/room-list/reserve-button.php:26
+msgid "Reserve"
+msgstr ""
+
+#: ../templates/room-list/room-content.php:138
+msgid "Show rates"
+msgstr ""
+
+#: ../templates/room-list/room-content.php:138, ../templates/room-list/room-content.php:138
+msgid "Hide rates"
+msgstr ""
+
+#: ../templates/room-list/selected-nights.php:22
+msgctxt "selected_nights"
+msgid "%s-night stay"
+msgid_plural "%s-nights stay"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/room-list/single-room-available-info.php:18
+msgid "Hooray this room is available! For your convenience, below you can find other rooms that are available on the same dates."
+msgstr ""
+
+#: ../templates/room-list/single-room-available-info.php:18
+msgid "Hooray this room is available!"
+msgstr ""
+
+#: ../templates/room-list/single-room-not-available-info.php:18
+msgid "We are sorry, this room is not available on your requested dates. Please try again with some different dates or have a look at the available rooms below."
+msgstr ""
+
+#: ../templates/room-list/single-room-not-available-info.php:18
+msgid "We are sorry, this room is not available on your requested dates. Please try again with some different dates."
+msgstr ""
+
+#: ../templates/single-room/conditions.php:26
+msgid "Room conditions"
+msgstr ""
+
+#: ../templates/single-room/deposit.php:21, ../templates/room-list/content/deposit.php:21, ../templates/single-room/rate/rate-deposit.php:19, ../templates/room-list/content/rate/rate-deposit.php:19
+msgid "Deposit required"
+msgstr ""
+
+#: ../templates/single-room/facilities.php:24
+msgid "Facilities"
+msgstr ""
+
+#: ../templates/single-room/gallery.php:75
+msgid "View room gallery"
+msgstr ""
+
+#: ../templates/single-room/meta.php:22
+msgid "Room details"
+msgstr ""
+
+#: ../templates/single-room/meta.php:32, ../templates/room-list/content/meta.php:23
+msgid "Room size:"
+msgstr ""
+
+#: ../templates/single-room/price.php:25
+msgid "See available rates"
+msgstr ""
+
+#: ../templates/single-room/related.php:20
+msgid "Related rooms"
+msgstr ""
+
+#: ../templates/single-room/room-rates.php:28
+msgid "Available rates"
+msgstr ""
+
+#: ../templates/archive/content/room-more-button.php:18
+msgid "View room details"
+msgstr ""
+
+#: ../templates/emails/plain/admin-cancelled-reservation.php:26, ../templates/emails/plain/admin-new-reservation.php:26, ../templates/emails/plain/guest-cancelled-reservation.php:26, ../templates/emails/plain/guest-confirmed-reservation.php:26, ../templates/emails/plain/guest-invoice.php:33, ../templates/emails/plain/guest-request-received.php:26
+msgid "Check-in: %s"
+msgstr ""
+
+#: ../templates/emails/plain/admin-cancelled-reservation.php:27, ../templates/emails/plain/admin-new-reservation.php:27, ../templates/emails/plain/guest-cancelled-reservation.php:27, ../templates/emails/plain/guest-confirmed-reservation.php:27, ../templates/emails/plain/guest-invoice.php:34, ../templates/emails/plain/guest-request-received.php:27
+msgid "Check-out: %s"
+msgstr ""
+
+#: ../templates/emails/plain/admin-cancelled-reservation.php:28, ../templates/emails/plain/admin-new-reservation.php:28, ../templates/emails/plain/guest-cancelled-reservation.php:28, ../templates/emails/plain/guest-confirmed-reservation.php:28, ../templates/emails/plain/guest-invoice.php:35, ../templates/emails/plain/guest-request-received.php:28
+msgid "Nights: %s"
+msgstr ""
+
+#: ../templates/emails/plain/admin-cancelled-reservation.php:45, ../templates/emails/plain/admin-new-reservation.php:45, ../templates/emails/plain/guest-cancelled-reservation.php:45, ../templates/emails/plain/guest-confirmed-reservation.php:53, ../templates/emails/plain/guest-invoice.php:60, ../templates/emails/plain/guest-request-received.php:53
+msgid "View reservation: %s"
+msgstr ""
+
+#: ../templates/emails/plain/email-hotel-info.php:18
+msgid "Telephone: %s."
+msgstr ""
+
+#: ../templates/emails/plain/email-hotel-info.php:19
+msgid "Fax: %s."
+msgstr ""
+
+#: ../templates/emails/plain/email-hotel-info.php:20
+msgid "Email: %s."
+msgstr ""
+
+#: ../templates/emails/plain/email-reservation-items.php:32
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../templates/emails/plain/email-reservation-items.php:35
+msgid "Cost: %s"
+msgstr ""
+
+#: ../templates/emails/plain/guest-invoice.php:21
+msgid "Hello %s, a reservation has been created for you on %s. To pay for this reservation please use the following link: %s"
+msgstr ""
+
+#: ../templates/room-list/content/add-to-cart.php:44, ../templates/room-list/content/rate/rate-add-to-cart.php:42
+msgctxt "book now button text: singular"
+msgid "room selected"
+msgstr ""
+
+#: ../templates/room-list/content/add-to-cart.php:44, ../templates/room-list/content/rate/rate-add-to-cart.php:42
+msgctxt "book now button text: plural"
+msgid "rooms selected"
+msgstr ""
+
+#: ../templates/room-list/content/facilities.php:24
+msgid "Room facilities:"
+msgstr ""
+
+#: ../templates/room-list/content/max-guests.php:27
+msgid "Recommended for %s adult(s) and %s child(ren)"
+msgstr ""
+
+#: ../templates/room-list/content/not-available-info.php:24
+msgid "The room is not available for this date"
+msgstr ""
+
+#: ../templates/room-list/content/price.php:22, ../templates/room-list/content/rate/rate-price.php:20
+msgid "Prices are per room"
+msgstr ""
+
+#: ../templates/room-list/content/room-conditions.php:26, ../templates/room-list/content/rate/rate-conditions.php:24
+msgid "Room conditions:"
+msgstr ""
+
+#: ../templates/room-list/content/rooms-left.php:25
+msgid "%s room left!"
+msgid_plural "%s rooms left!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/room-list/content/short-description.php:28, ../templates/room-list/content/short-description.php:28
+msgid "More about this room"
+msgstr ""
+
+#: ../templates/room-list/content/short-description.php:28
+msgid "Hide room details"
+msgstr ""
+
+#: ../templates/room-list/content/thumbnails.php:24
+msgid "View gallery"
+msgstr ""
+
+#: ../templates/single-room/rate/rate-conditions.php:24
+msgid "Rate conditions:"
+msgstr ""
